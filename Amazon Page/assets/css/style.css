@@ -1,0 +1,162 @@
+/* Your styles here */
+body {
+    
+   background-color: rgb(233,237,238);
+    
+}
+header a{
+   color:white;
+   text-decoration: none;
+}
+main a{
+    text-decoration: none;
+    color:rgb(47,110,97);
+    font-weight: bold;
+    padding-left:2em;
+}
+
+p,h1,h3,a{
+    font-family: Arial, sans-serif;
+
+}
+/* style header (logo+bar) */
+header img{
+    height: 100%;
+}
+
+#intestazione{
+    background-color: rgb(34,47,63);
+    height: 7em;
+ }
+
+ #bar{
+    background-color: rgb(54,71,89);
+    height: 3em;
+ }
+
+ #bar li{
+    display:inline;
+    color:white;
+    padding:1em;
+    display:inline-block;
+    
+ }
+/* fine  style header (logo+bar) */
+
+/* inzio style main  */
+main{
+margin:1.5em;
+}
+ .title{
+    text-align: center;
+    color:white;    
+ }
+
+ #pre-title{
+    background-color: rgb(242,102,0);
+    margin-bottom:1.5em;
+ }
+
+ #pre-title h3{
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    color:white;
+ }
+
+ #title-princ{
+    background-image: url("../images/bg-image.png");
+    height: 15em;
+    text-align: center;
+ }
+
+ #title-princ h1{
+    font-weight: bold;
+    font-size:2em;
+    padding-top:3em;
+    
+ }
+
+ #title-princ p{
+    padding-top:1.5em;
+    font-weight:bold;
+    
+ }
+
+ #Find-gift{
+    margin-top: 1.5em;
+ }
+
+ #Find-gift{
+    background-color: white;
+    padding-top:1em;    
+    padding-left:1em;
+ }
+ #Find-gift h3{
+    display:inline;
+    font-weight: bolder;
+    font-size:1.3em;
+ }
+
+ #Find-gift a{
+    padding-left:2em;
+    
+    
+ }
+
+
+ .img-divfor{
+    width: 20%; 
+   height: 244.9px;
+   margin:1.5em;
+   border-radius: 10%;
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+ }
+ 
+#divfor{
+height: 100%;
+width: 100%;
+text-align: center;
+
+}
+
+.gifting-sound{
+    margin-top:1.5em;
+text-align: center;
+}
+
+.gifting-sound p{
+    display: inline;
+    font-weight: bolder;
+    font-size:1.3em;
+}
+
+.gifting-sound a{
+    padding-left: 1.5em;
+}
+
+.gifting-sound img{
+    width: 100%;
+}
+
+#back{
+    text-align: center;
+    background-color: rgb(54,71,89);
+    height: 2em;
+    padding-top:1em;
+    font-weight: bold;
+}
+#back a{
+    color:white;
+    text-decoration: underline; 
+    
+}
+
+#footer-logo{
+    text-align: center;
+    background-color:  rgb(34,47,63);
+}
+
+#footer-logo img{
+        width: 15em;
+        height: 8em;
+}
